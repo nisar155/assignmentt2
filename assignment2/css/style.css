@@ -1,0 +1,49 @@
+.form{
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: inset;
+    margin-left: 35%;
+    margin-right: 40%;
+    margin-top: 15%;
+    padding: 10px;
+    background: linear-gradient(to left,#c75050,#39495c,#1d7c2d);
+}
+.box{
+    border: 3px solid black;
+    border-radius: 130;
+    box-shadow: inset;
+    margin-left: 35%;
+    margin-right: 40%;
+    margin-top: 10%;
+    padding: 10px;
+    background: linear-gradient(to left,#3043f0,#15b7f7,#1d7c2d);
+}
+.sig{
+    border: 3px solid black;
+    border-radius: 130;
+    box-shadow: inset;
+    margin-left: 35%;
+    margin-right: 40%;
+    margin-top: 0%;
+    padding: 10px;
+}
+.img{
+    margin-top: 1px;
+}
+.back{
+    background-image:url("https://c4.wallpaperflare.com/wallpaper/298/817/207/dark-smoke-mercedesbenz-mercedes-benz-c63-black-series-1920x1080-cars-mercedes-hd-art-wallpaper-preview.jpg" );
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.con{
+    margin-left: 10%;
+    margin-top: 5%;
+    color: white;
+    
+    
+    
+}
+.cardd{
+    margin-top: 20%;
+}
+

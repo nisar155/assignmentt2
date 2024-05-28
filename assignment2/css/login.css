@@ -1,0 +1,11 @@
+
+.box{
+    border: 3px solid black;
+    border-radius: 130;
+    box-shadow: inset;
+    margin-left: 35%;
+    margin-right: 40%;
+    margin-top: 10%;
+    padding: 10px;
+    background: linear-gradient(to left,#3043f0,#15b7f7,#1d7c2d);
+}
